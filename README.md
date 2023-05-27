@@ -9,8 +9,8 @@ I am student at Software Engineering department 2.classes. I am working with jav
 My goals in sector is being a software engineer in aerospace defence industry. 
 
 Linkedİn : https://www.linkedin.com/in/fatihberkanteren
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]([link](https://github.com/fatihberkanteren)) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/fatihberkant)) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=[link](https://github.com/fatihberkanteren))]([link](https://github.com/fatihberkanteren)) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=[link](https://www.instagram.com/fatihberkant))]([link](https://www.instagram.com/fatihberkant)) 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=fatihberkanteren&show_icons=true&theme=gradient)
 
 - 🔭 I’m currently working on Java and general programmin langueages
