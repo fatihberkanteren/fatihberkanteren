@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 I am student at Software Engineering department 2.classes. I am working with java since 2 years and I always learn new thing about software world.
 My goals in sector is being a software engineer in aerospace defence industry. 
 
-Linkedİn : https://www.linkedin.com/in/fatihberkanteren
+Linkedİn : https://www.linkedin.com/in/fatihberkanteren <br>
 Instagram : https://www.instagram.com/fatihberkant
 
 - 🔭 I’m currently working on Java and general programmin langueages
