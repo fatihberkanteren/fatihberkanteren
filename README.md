@@ -12,7 +12,7 @@ Linkedİn : https://www.linkedin.com/in/fatihberkanteren <br>
 Instagram : https://www.instagram.com/fatihberkant <br>
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=fatihberkanteren&show_icons=true&theme=gradient) 
 <br>
-- 🔭 I’m currently working on Java and general programmin langueages
+- 🔭 I’m currently working on Java and general programming langueages
 - 🌱 I’m currently learning Java - Spring Boot
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
