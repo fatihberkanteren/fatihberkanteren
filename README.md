@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fatihberkanteren/assets/main/banners/computer-vision-ai-banner.png" width="100%" alt="Fatih Berkant Eren Banner">
+<img src="https://avatars.githubusercontent.com/u/74306381?v=4" width="150" height="150" alt="Fatih Berkant Eren" style="border-radius:50%; border: 4px solid #00bcd4; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
 
 <h1>Selam! Ben <span style="color:#00bcd4;">Fatih Berkant Eren</span> 👋</h1>
 
