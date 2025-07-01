@@ -22,11 +22,11 @@
 
 ## Hakkımda
 
-[cite_start]Görüntü işleme ve yazılım geliştirmeye odaklanmış, yeni mezun bir Yazılım Mühendisiyim[cite: 6]. [cite_start]Java Spring Boot ve Angular kullanarak full-stack web uygulamaları geliştirdim[cite: 7]. [cite_start]YOLO, OpenCV ve Derin Öğrenme çatılarında görüntü işleme sistemleri kurma deneyimine sahibim[cite: 7]. [cite_start]Akıllı ve ölçeklenebilir yazılım çözümleri oluşturma konusunda tutkuluyum[cite: 8]. Sektördeki hedefim, özellikle havacılık ve savunma sanayisinde bir yazılım mühendisi olmaktır.
+[cite_start]Görüntü işleme ve yazılım geliştirmeye odaklanmış, yeni mezun bir Yazılım Mühendisiyim[cite: 6]. [cite_start]Java Spring Boot ve Angular kullanarak full-stack web uygulamaları geliştirdim. [cite_start]YOLO, OpenCV ve Derin Öğrenme çatılarında görüntü işleme sistemleri kurma deneyimine sahibim. [cite_start]Akıllı ve ölçeklenebilir yazılım çözümleri oluşturma konusunda tutkuluyum[cite: 8]. Sektördeki hedefim, özellikle havacılık ve savunma sanayisinde bir yazılım mühendisi olmaktır.
 
 ---
 
-## 🚀 Yeteneklerim ve Araçlarım
+## 💻 Programlama Dilleri ve Temel Becerilerim
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -34,31 +34,44 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Machine_Learning-FFD133?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Deep_Learning-5D3FD3?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/Computer_Vision-7A1FD6?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="OOP">
 </p>
 
 ---
 
-## 💼 Seçili Deneyimler ve Projeler
+## 🤖 Görüntü İşleme ve Yapay Zeka Teknolojileri
 
-* [cite_start]**VSIGHT - Stajyer Yazılım Mühendisi:** YOLO, EfficientNet, ResNet tabanlı modelleri eğittim ve optimize ettim[cite: 12]. [cite_start]Flask API kullanarak tahmin sonuçlarını web arayüzüne aktaran bir sistem geliştirdim[cite: 14]. [cite_start]BLIP-2 ve Qwen-VL tabanlı çözümler geliştirdim[cite: 16].
-* [cite_start]**Tam Yığın E-Ticaret Projesi:** Spring Boot ve Angular ile bir e-ticaret platformu geliştirdim[cite: 67, 68].
-    * 🔗 [Backend Repo](https://github.com/fatihberkanteren/SpringBootFullStackECommerceWebProject) | [cite_start]🔗 [Frontend Repo](https://github.com/fatihberkanteren/AngularFullStackECommerceWebProject) [cite: 70]
-* [cite_start]**Android Görüntü İşleme Projesi (YOLO & Roboflow Entegrasyonu):** YOLO ve Roboflow API ile Android tabanlı bir nesne algılama uygulaması geliştirdim[cite: 78].
-    * [cite_start]🔗 [Proje Repo](https://github.com/fatihberkanteren/ObjectDetection-Android) [cite: 80]
-* [cite_start]**Bilgisayar Görüşü & Otomasyon Projeleri:** Python ve OpenCV kullanarak el takibi, poz tahmini, yüz algılama gibi çeşitli projeler geliştirdim[cite: 59, 61, 62, 63, 64, 65].
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Machine_Learning-FFD133?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Deep_Learning-5D3FD3?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Computer_Vision-7A1FD6?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision">
+</p>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## ⚙️ Diğer Araçlar ve Platformlar
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+---
+
+## 📈 GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatihberkanteren&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fatih Berkant Eren'in GitHub İstatistikleri">
