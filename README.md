@@ -37,7 +37,7 @@
 💻 Görüntü işleme, derin öğrenme ve web geliştirme alanlarına yoğunlaşmış durumdayım.  
 🚀 Java Spring Boot + Angular ile full-stack projeler geliştiriyorum.  
 🛠 YOLO, OpenCV ve PyTorch ile gerçek zamanlı analiz sistemleri üzerine çalıştım.  
-🎯 Hedefim: Savunma ve havacılık sektöründe yenilikçi çözümler üreten bir mühendis olmak.
+🎯 Hedefim: Yenilikçi çözümler üreten bir mühendis olmak.
 
 ---
 
