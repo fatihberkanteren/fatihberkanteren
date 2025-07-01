@@ -35,7 +35,7 @@
 
 🎓 Yazılım Mühendisliği mezunuyum.  
 💻 Görüntü işleme, derin öğrenme ve web geliştirme alanlarına yoğunlaşmış durumdayım.  
-🚀 Java Spring Boot + Angular ile full-stack projeler geliştiriyorum.  
+🚀 Java Spring Boot + Angular ile full-stack projeler geliştirdim.  
 🛠 YOLO, OpenCV ve PyTorch ile gerçek zamanlı analiz sistemleri üzerine çalıştım.  
 🎯 Hedefim: Yenilikçi çözümler üreten bir mühendis olmak.
 
