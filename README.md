@@ -22,7 +22,7 @@
 
 ## Hakkımda
 
-[cite_start]Görüntü işleme ve yazılım geliştirmeye odaklanmış, yeni mezun bir Yazılım Mühendisiyim[cite: 6]. [cite_start]Java Spring Boot ve Angular kullanarak full-stack web uygulamaları geliştirdim. [cite_start]YOLO, OpenCV ve Derin Öğrenme çatılarında görüntü işleme sistemleri kurma deneyimine sahibim. [cite_start]Akıllı ve ölçeklenebilir yazılım çözümleri oluşturma konusunda tutkuluyum[cite: 8].
+[cite_start]Görüntü işleme ve yazılım geliştirmeye odaklanmış, yeni mezun bir Yazılım Mühendisiyim[cite: 6]. [cite_start]Java Spring Boot ve Angular kullanarak full-stack web uygulamaları geliştirdim. [cite_start]YOLO, OpenCV ve Derin Öğrenme çatılarında görüntü işleme sistemleri kurma deneyimine sahibim. [cite_start]Akıllı ve ölçeklenebilir yazılım çözümleri oluşturma konusunda tutkuluyum[cite: 8]. Sektördeki hedefim, özellikle havacılık ve savunma sanayisinde bir yazılım mühendisi olmaktır.
 
 ---
 
