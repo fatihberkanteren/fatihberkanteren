@@ -22,8 +22,7 @@
 
 ## Hakkımda
 
-[cite_start]Görüntü işleme ve yazılım geliştirmeye odaklanmış, yeni mezun bir Yazılım Mühendisiyim[cite: 6]. [cite_start]Java Spring Boot ve Angular kullanarak full-stack web uygulamaları geliştirdim. [cite_start]YOLO, OpenCV ve Derin Öğrenme çatılarında görüntü işleme sistemleri kurma deneyimine sahibim. [cite_start]Akıllı ve ölçeklenebilir yazılım çözümleri oluşturma konusunda tutkuluyum[cite: 8]. Sektördeki hedefim, özellikle havacılık ve savunma sanayisinde bir yazılım mühendisi olmaktır.
-
+[cite_start]Görüntü işleme ve yazılım geliştirmeye odaklanmış, yeni mezun bir Yazılım Mühendisiyim[cite: 6]. [cite_start]Java Spring Boot ve Angular kullanarak full-stack web uygulamaları geliştirdim. [cite_start]YOLO, OpenCV ve Derin Öğrenme çatılarında görüntü işleme sistemleri kurma deneyimine sahibim. [cite_start]Akıllı ve ölçeklenebilir yazılım çözümleri oluşturma konusunda tutkuluyum[cite: 8].
 ---
 
 ## 💻 Programlama Dilleri ve Temel Becerilerim
@@ -63,7 +62,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -74,7 +72,7 @@
 ## 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihberkanteren&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fatih Berkant Eren'in GitHub İstatistikleri">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihberkanteren&show_icons=true&theme=dark&hide_border=true&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihberkanteren&theme=dark&hide_border=true" alt="Fatih Berkant Eren'in GitHub Serisi">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihberkanteren&layout=compact&theme=dark&hide_border=true" alt="En Çok Kullanılan Diller">
 </p>
@@ -90,8 +88,8 @@
 <details>
   <summary>Daha fazla bilgi edinmek ister misin?</summary>
   <br>
-  - 🔭 Şu anda Java ve genel programlama dilleri üzerine çalışıyorum.
-  - 🌱 Java - Spring Boot öğrenmeye devam ediyorum.
+  - 🔭 Şu anda Python ve genel programlama dilleri üzerine çalışıyorum.
+  - 🌱 Yapay zeka alanında öğrenmeye devam ediyorum.
   - 👯 Ortak proje geliştirmek isteyenlerle işbirliği yapmaktan memnuniyet duyarım.
   - 💬 Bana sormak istediğin her şeyi sorabilirsin!
   - 📫 Bana Instagram üzerinden ulaşabilirsin: @fatihberkant
