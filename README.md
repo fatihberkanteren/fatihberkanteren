@@ -4,7 +4,7 @@
 
 <h1>Selam! Ben <span style="color:#00bcd4;">Fatih Berkant Eren</span> 👋</h1>
 
-<h3><i>Yazılım Mühendisi · Görüntü İşleme · Full Stack · Java & Python Enthusiast</i></h3>
+<h3><i>Yazılım Mühendisi · Görüntü İşleme · Yapay Zeka ·  Python </i></h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BCD4&width=435&lines=G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme+Uzman%C4%B1;Java+Spring+ve+Angular+ile+Full+Stack;Derin+%C3%96%C4%9Frenme+%7C+Yapay+Zeka+%7C+OpenCV;Her+G%C3%BCn+Bir+Ad%C4%B1m+%C3%96%C4%9Fe+Yak%C4%B1n!" alt="Typing SVG" />
 
