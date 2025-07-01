@@ -44,7 +44,7 @@
 ## 🛠️ Teknolojiler & Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,cpp,cs,js,html,css,git,mysql,opencv,tensorflow,pytorch,flask,linux,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,python,mysql,opencv,tensorflow,pytorch,java,spring,angular,js,html,css,flask,linux,postgres" />
 </p>
 
 ---
